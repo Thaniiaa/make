@@ -5,3 +5,15 @@ Link Apk : https://play.google.com/store/apps/details?id=makemoney.spinandearn.r
 Bot Reff? scam ga scam ga tau :v
 
 Key nya apa bang? tanya Muhammad Ikhsan Aprilyadi :v
+
+Bahan : Termux
+
+pkg install php
+
+pkg install git
+
+git clone https://github.com/Thaniiaa/make/
+
+cd make
+
+php new.php
